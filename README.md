@@ -14,14 +14,16 @@ Summary: An Object-oriented Framework for Geostatistical Modeling in S+ containi
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-sgeostat-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-sgeostat-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-sgeostat-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-sgeostat-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-sgeostat-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-sgeostat-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-sgeostat-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-sgeostat-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-sgeostat-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-sgeostat-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-sgeostat-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-sgeostat-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-sgeostat/badges/version.svg)](https://anaconda.org/conda-forge/r-sgeostat)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-sgeostat/badges/downloads.svg)](https://anaconda.org/conda-forge/r-sgeostat)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--sgeostat-green.svg)](https://anaconda.org/conda-forge/r-sgeostat) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-sgeostat.svg)](https://anaconda.org/conda-forge/r-sgeostat) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-sgeostat.svg)](https://anaconda.org/conda-forge/r-sgeostat) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-sgeostat.svg)](https://anaconda.org/conda-forge/r-sgeostat) |
 
 Installing r-sgeostat
 =====================
