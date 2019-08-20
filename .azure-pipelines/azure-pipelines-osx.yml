@@ -10,17 +10,17 @@ jobs:
   strategy:
     maxParallel: 8
     matrix:
-      osx_fortran_compiler_version4r_base3.5.1:
-        CONFIG: osx_fortran_compiler_version4r_base3.5.1
+      osx_fortran_compiler_version4r_base3.5.1target_platformosx-64:
+        CONFIG: osx_fortran_compiler_version4r_base3.5.1target_platformosx-64
         UPLOAD_PACKAGES: True
-      osx_fortran_compiler_version4r_base3.6:
-        CONFIG: osx_fortran_compiler_version4r_base3.6
+      osx_fortran_compiler_version4r_base3.6target_platformosx-64:
+        CONFIG: osx_fortran_compiler_version4r_base3.6target_platformosx-64
         UPLOAD_PACKAGES: True
-      osx_fortran_compiler_version7r_base3.5.1:
-        CONFIG: osx_fortran_compiler_version7r_base3.5.1
+      osx_fortran_compiler_version7r_base3.5.1target_platformosx-64:
+        CONFIG: osx_fortran_compiler_version7r_base3.5.1target_platformosx-64
         UPLOAD_PACKAGES: True
-      osx_fortran_compiler_version7r_base3.6:
-        CONFIG: osx_fortran_compiler_version7r_base3.6
+      osx_fortran_compiler_version7r_base3.6target_platformosx-64:
+        CONFIG: osx_fortran_compiler_version7r_base3.6target_platformosx-64
         UPLOAD_PACKAGES: True
 
   steps:
